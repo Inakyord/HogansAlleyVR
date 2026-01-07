@@ -15,7 +15,7 @@ A cross-platform reflex shooter inspired by the classic 'Hogan's Alley', built w
 ---
 
 ## 📄 Documentation
-For a detailed technical breakdown, including game mechanics, script explanations, and asset descriptions, please refer to the **[Documentation PDF](./Documentation.pdf)** included in this repository.
+For a detailed technical breakdown, including game mechanics, script explanations, and asset descriptions, please refer to the **[Documentation PDF](./EVI__Hogan_s_Alley_VR.pdf)** included in this repository.
 
 ---
 
