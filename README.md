@@ -1,11 +1,35 @@
 # HogansAlleyVR
-cross-platform reflex shooter inspired by the classic 'Hogan's Alley', built with Unity. Features mouse aiming for PC and gyroscope motion controls for iOS
 
-## Link to download the iOS build:
-https://drive.google.com/file/d/1QAR-swdxhopsWHdVh0mvgiI7gYH5bhXe/view?usp=sharing
+A cross-platform reflex shooter inspired by the classic 'Hogan's Alley', built with Unity. Features mouse aiming for PC and gyroscope motion controls for iOS.
 
-## Link to download the exe file for windows:
-https://drive.google.com/file/d/1Mky6y0aphF_z0MypVD1uuhco34oGfMps/view?usp=sharing
+## 📥 Downloads
+
+### 📱 iOS Build (Xcode Project)
+[Download iOS Build Files](https://drive.google.com/file/d/1QAR-swdxhopsWHdVh0mvgiI7gYH5bhXe/view?usp=sharing)
+* **Note:** This is a zipped Xcode project. To run it on an iPhone, you must unzip the folder on a Mac, open `Unity-iPhone.xcodeproj`, and deploy it to your device using Xcode.
+
+### 💻 Windows Build (Playable EXE)
+[Download Windows Executable](https://drive.google.com/file/d/1Mky6y0aphF_z0MypVD1uuhco34oGfMps/view?usp=sharing)
+* **Note:** Extract the ZIP file and run `Hogans Alley VR.exe` to play immediately on PC.
+
+---
+
+## 📄 Documentation
+For a detailed technical breakdown, including game mechanics, script explanations, and asset descriptions, please refer to the **[Documentation PDF](./Documentation.pdf)** included in this repository.
+
+---
+
+## 🛠️ Running the Project in Unity
+
+If you are downloading the source code to run inside the Unity Editor:
+
+1. Open the project in Unity Hub.
+2. Navigate to the `Assets/Scenes` folder.
+3. **Double-click `MenuScene` to open it.**
+4. Press the **Play** button.
+   * *Important:* You must start from the `MenuScene` for the game flow (Main Menu -> Game -> Game Over) to work correctly.
+
+---
 
 ## 🎮 How to Play
 
