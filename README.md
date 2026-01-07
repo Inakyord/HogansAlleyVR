@@ -1,6 +1,12 @@
 # HogansAlleyVR
 cross-platform reflex shooter inspired by the classic 'Hogan's Alley', built with Unity. Features mouse aiming for PC and gyroscope motion controls for iOS
 
+## Link to download the iOS build:
+https://drive.google.com/file/d/1QAR-swdxhopsWHdVh0mvgiI7gYH5bhXe/view?usp=sharing
+
+## Link to download the exe file for windows:
+https://drive.google.com/file/d/1Mky6y0aphF_z0MypVD1uuhco34oGfMps/view?usp=sharing
+
 ## 🎮 How to Play
 
 Your goal is simple: test your reflexes and aim! Enemies and innocents will pop up in the alley windows. You must identify the threats and take them down before the time runs out.
